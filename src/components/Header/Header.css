@@ -1,0 +1,14 @@
+.header{
+    background-color: black;
+    height: 30px;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+header>search{
+    border-color: none;
+    border-radius: 2px;
+}
